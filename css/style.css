@@ -10,6 +10,11 @@ body {
 	text-align: center;
 }
 
-table {
-	align: center;
+table, tr, td {
+	
+	padding: 15px;
+}
+
+td.border {
+	border: 5px solid brown;
 }
