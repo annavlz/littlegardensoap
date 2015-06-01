@@ -1,0 +1,11 @@
+img.normal {
+	height: 250px;
+	width: 350px;
+}
+
+img.logo {
+	height: 20px;
+}
+body {
+	text-align: center;
+}
