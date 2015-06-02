@@ -107,10 +107,16 @@ TABLES
 table, tr, td {
 	
 	padding: 15px;
+
 }
 
+}
+#white {
+	background-color: #fff;
+}
 td.border {
 	border: 2px solid brown;
+
 }
 
 #about {
