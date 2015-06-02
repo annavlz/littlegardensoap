@@ -2,7 +2,7 @@ html {
 	text-align: center;
 
 }
-a {
+header a {
 	text-decoration: none;
 	color: #fff;
 }
@@ -38,5 +38,5 @@ table, tr, td {
 }
 
 td.border {
-	border: 5px solid brown;
+	border: 2px solid brown;
 }
