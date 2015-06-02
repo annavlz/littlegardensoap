@@ -1,3 +1,25 @@
+html {
+	text-align: center;
+
+}
+a {
+	text-decoration: none;
+	color: #fff;
+}
+header {
+	background: #ff9696;
+	color: #1a0f0f;
+	margin-top: -20px;
+	margin-bottom: 5%;
+	padding: 1%;
+}
+footer {
+	background: #ff9696;
+	color: #1a0f0f;
+	margin-bottom: -20px;
+	margin-top: 5%;
+	padding: 1%;
+}
 img.normal {
 	height: 250px;
 	width: 350px;
