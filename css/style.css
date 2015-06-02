@@ -1,7 +1,17 @@
+/******************
+GENERAL
+*******************/
+
 html {
 	text-align: center;
 
 }
+body {
+	text-align: center;
+}
+/******************
+HEADER
+*******************/
 header a {
 	text-decoration: none;
 	color: #fff;
@@ -17,6 +27,10 @@ header {
 	padding: 1% 0 0 0;
 	font-family: 'Open Sans', sans-serif;
 	}
+
+/******************
+FOOTER
+*******************/
 footer {
 	background: #ff9696;
 	color: #1a0f0f;
@@ -24,6 +38,10 @@ footer {
 	margin-top: 5%;
 	padding: 1%;
 }
+
+/******************
+TEXT
+*******************/
 h1 {
 	font-family: 'Lobster', cursive;
 	font-size: 5em;
@@ -32,6 +50,15 @@ h1 {
 h2 {
 	font-family: 'Vollkorn', serif;
 }
+p {
+	
+	font-family: 'Vollkorn', serif;
+	font-size: 1.2em;
+
+}
+/******************
+IMAGES
+*******************/
 img.normal {
 	height: 250px;
 	width: 350px;
@@ -40,10 +67,13 @@ img.normal {
 img.logo {
 	height: 20px;
 }
-body {
-	text-align: center;
-}
 
+img.about {
+	height: 200px;
+}
+/******************
+TABLES
+*******************/
 table, tr, td {
 	
 	padding: 15px;
@@ -52,3 +82,12 @@ table, tr, td {
 td.border {
 	border: 2px solid brown;
 }
+
+#about {
+	width: 50%;
+	padding: 0;
+ }
+ table p {
+ 	background-color: #fff;
+ 	text-align: left;
+ }
