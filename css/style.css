@@ -1,3 +1,6 @@
+
+
+
 /******************
 GENERAL
 *******************/
@@ -8,6 +11,10 @@ html {
 }
 body {
 	text-align: center;
+	/*height: 100%;
+	position: relative;
+	margin: 0 auto;
+	margin-bottom: 200px;*/
 }
 a {
 	text-decoration: none;
@@ -27,6 +34,7 @@ header a {
 	font-weight: bolder;
 	font-size: 1.5em;
 	margin: 0;
+
 }
 header {
 	background: #ff9696;
@@ -43,8 +51,8 @@ FOOTER
 footer {
 	background: #ff9696;
 	color: #1a0f0f;
-	margin-bottom: -20px;
-	margin-top: 5%;
+	margin: 0 auto;
+	/*position: relative;*/
 	padding: 1%;
 }
 
@@ -126,3 +134,4 @@ td.border {
  	background-color: #fff;
  	text-align: left;
  }
+
