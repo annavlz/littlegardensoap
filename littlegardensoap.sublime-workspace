@@ -1,0 +1,399 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n  <head>\n    <meta charset=\"utf-8\">\n    <title>Little Garden Soap</title>\n    <link rel=\"stylesheet\" href=\"css/normalize.css\">\n    <link href='http://fonts.googleapis.com/css?family=Lobster|Vollkorn:400,400italic|Open+Sans:400,800' rel='stylesheet' type='text/css'>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/layout.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"css/style.css\">\n    \n  </head>\n  <body style=\"background-image:url(img/back.jpg)\">\n    <div class=\"wrapper\" align=\"center\">  \n        <header>\n          <h1>Little Garden Soap</h1>\n          <h2>Artisan bath and body products</h2>cd l	\n          <nav>\n            <table align=\"center\">\n              <tr>\n                <td><a href=\"index.html\">HOME</a></td>\n                <td><a href=\"gallery.html\">GALLERY</a></td>\n                <td><a href=\"about.html\">ABOUT</a></td>\n                <td><a href=\"contact.html\">CONTACT</a></td>\n              </tr>\n            </table>\n          \n          </nav>\n        </header>\n        \n        <section>\n          <div>\n            <table id=\"main\" align=\"center\">\n             <tr>\n                <td id=\"about\"><img class=\"normal\" src=\"img/logoFB.jpg\"></td>\n                <td></td>\n                <td id=\"about\">\n                  <p>Hello. This is my homework page for learning HTML and CSS.<br>\n              I decided to show you my hobby: soapmaking.<br>\n              Please feel free to browse the <a href=\"gallery.html\"> Gallery</a> and follow the links at the <a href=\"contact.html\"> Contact </a> page<br>\n              or at the bottom to my shop and facebook page.<br>\n              I wish you could not only look at but also smell my soap. ))<br>\n                  </p>\n                </td>\n              </tr>\n            </table>\n          </div>\n        </section>\n        <div class=\"push\"></div>\n    </div>\n    <div class=\"footer\">\n       <footer>\n      <a href=\"http://www.facebook.com/littlegardensoap\"><img class=\"logo\" src=\"img/facebook.jpeg\"></a>\n      <a href=\"http://littlegardensoap.etsy.com\"><img class=\"logo\" src=\"img/etsy_logo.png\"></a>\n      <p>&copy; 2015 Little Garden Soap.</p>\n    </footer>\n    </div>\n  \n  </body>\n\n\n</html>\n",
+			"file": "/c/Users/Anna/Desktop/version-control/littlegardensoap/index.html",
+			"file_size": 2271,
+			"file_write_time": 130782129940812759,
+			"settings":
+			{
+				"buffer_size": 2215,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 380.0,
+		"last_filter": "syht",
+		"selected_items":
+		[
+			[
+				"syht",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"set s e",
+				"Set Syntax: Emmet"
+			],
+			[
+				"e",
+				"Emmet: Increment Number by 1"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"rub",
+				"Set Syntax: Ruby"
+			],
+			[
+				"ht",
+				"Snippet: html"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"coff",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"sybl",
+				"Set Syntax: PHP - Laravel Blade"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn ma",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syn ja",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 174.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Anna/Desktop/version-control/ruby/test.rb",
+		"/C/Users/Anna/AppData/Roaming/Sublime Text 3/Packages/User/hello.sublime-snippet",
+		"/C/Users/Anna/Desktop/version-control/ruby/test.html",
+		"/C/Users/Anna/.gitconfig",
+		"/C/Users/Anna/.bashrc",
+		"/c/dev/devacademy/github_page/index.html",
+		"/C/Program Files (x86)/Steam/SteamApps/common/Terraria/serverconfig.txt",
+		"/c/dev/devacademy/phase-0-week-1/MEOWTOWN.md",
+		"/c/dev/devacademy/github_page/README.md",
+		"/c/Users/Anna/Desktop/version-control/asteroids/game.js",
+		"/C/Users/Anna/Desktop/version-control/asteroids/.git/COMMIT_EDITMSG",
+		"/C/Users/Anna/.bash_profile",
+		"/C/Program Files (x86)/Cmder/config/ConEmu.xml",
+		"/C/Users/Anna/Desktop/version-control/reflections/.git/COMMIT_EDITMSG",
+		"/c/Users/Anna/Desktop/version-control/reflections/lesson_1_reflections",
+		"/c/Users/Anna/Desktop/version-control/reflections/lesson__1_reflections",
+		"/C/Users/Anna/Desktop/version-control/asteroids/game.js",
+		"/C/Users/Anna/Desktop/test.js",
+		"/C/Users/Anna/AppData/Roaming/Sublime Text 3/Packages/User/User/javascript/scriptsrc.sublime-snippet",
+		"/C/Users/Anna/Desktop/new",
+		"/C/Users/Anna/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Anna/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Anna/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Anna/Desktop/version-control/reflections/lesson_2_reflections",
+		"/C/dev/test",
+		"/C/Users/Anna/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Anna/Desktop/version-control/reflections/lesson_1_reflections",
+		"/C/Users/Anna/Desktop/version-control/log.txt",
+		"/C/Users/Anna/Desktop/version-control/pappu-pakia/puka1log.txt",
+		"/C/Users/Anna/Desktop/version-control/puka1log.txt",
+		"/C/Users/Anna/Desktop/version-control/reflections/lesson_1_reflections.txt"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jeff",
+			"Some",
+			"sidebar",
+			"x",
+			"renderText: function(text, size, x, y)",
+			"on",
+			"On",
+			"on",
+			"On",
+			"on",
+			"the",
+			"The",
+			"the",
+			"name",
+			"the",
+			"the name",
+			"name",
+			"isi",
+			"visible",
+			"exhaust",
+			"delta",
+			"function",
+			"KEY_STATUS",
+			"preMove",
+			"this",
+			"bigalien",
+			"asteroid",
+			"Asteroid",
+			"admin",
+			"islands"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/c/Users/Anna/Desktop/version-control/littlegardensoap/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								655,
+								655
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "littlegardensoap.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
