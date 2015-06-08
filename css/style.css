@@ -89,6 +89,10 @@ h5 {
 	font-size: 1.2em;
 	font-weight: bold;
 }
+
+span {
+	display: none;
+}
 /******************
 IMAGES
 *******************/
